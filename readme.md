@@ -60,6 +60,10 @@ The database has been designed using SQLite3 and SQL code and the user interacti
 
 ## SCREENS
 
-<table>
-<tr><td>temp</td></tr>
-</table>
+<img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/screen1.jpeg" />
+<img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/screen2.jpeg" />
+<img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/screen3.jpeg" />
+<img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/screen4.jpeg" />
+<img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/screen5.jpeg" />
+<img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/screen6.jpeg" />
+<img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/screen7.jpeg" />
