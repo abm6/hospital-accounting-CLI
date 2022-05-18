@@ -24,7 +24,9 @@ The database has been designed using SQLite3 and SQL code and the user interacti
 
 ## ER DIAGRAM AND ARCHITECTURE
 
+<center>
 <img src="https://github.com/abm6/hospital-accounting-CLI/blob/main/assets/er_diagram.jpeg" />
+</center>
 
 
 - The program follows object oriented principles and uses respective classes for respective operations.
