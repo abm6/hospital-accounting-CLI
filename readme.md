@@ -20,7 +20,7 @@ The database has been designed using SQLite3 and SQL code and the user interacti
     The prescription table consists of the prescriptions assigned by the doctor to the patient. And once the prescription gets assigned, their reference will be updated into the appointment schedule table.
 
 - ## appointment_schedule
-    The most important table that maintains the linke between all the other tables. It keeps track of the past appointments and the future upcoming appointments.
+    The most important table that maintains the link between all the other tables. It keeps track of the past appointments and the future upcoming appointments.
 
 ## ER DIAGRAM AND ARCHITECTURE
 
