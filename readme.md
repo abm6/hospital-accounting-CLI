@@ -56,3 +56,6 @@ The database has been designed using SQLite3 and SQL code and the user interacti
 - considering the fact that those have been completed.
 
 - A patient may even cancel the appointment.
+
+
+## SCREENS
